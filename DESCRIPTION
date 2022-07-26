@@ -15,3 +15,5 @@ Depends:
 LazyData: true
 Suggests: 
     learnr
+URL: https://github.com/OferEngel/oweather
+BugReports: https://github.com/OferEngel/oweather/issues
