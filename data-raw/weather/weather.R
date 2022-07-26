@@ -9,4 +9,6 @@ use_r("weather")
 devtools::document()
 
 usethis::use_data(weather, overwrite = TRUE)
-
+library(usethis)
+use_git()
+use_github("oweather")
